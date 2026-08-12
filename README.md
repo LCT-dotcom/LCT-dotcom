@@ -1,23 +1,8 @@
-<div align="center">
+# About Me
 
-# Biomedical Signal Processing & Machine Learning
+I am a fourth-year student at Ho Chi Minh City University of Technology (HCMUT), Vietnam National University Ho Chi Minh City. I am interested in biomedical signal processing and machine learning, particularly ECG and wearable PPG analysis, temporal deep learning, domain adaptation, and reproducible evaluation.
 
-**Building reproducible deep-learning pipelines for ECG, PPG, and wearable health data.**
-
-[![Profile](https://img.shields.io/badge/GitHub-LCT--dotcom-181717?style=flat-square&logo=github)](https://github.com/LCT-dotcom)
-
-</div>
-
-## About
-
-I develop research-oriented machine-learning systems for physiological time-series data, with a focus on:
-
-- ECG and wearable PPG signal processing
-- temporal deep learning and domain adaptation
-- leakage-aware validation and subject-level generalization
-- reproducible experiments, clear limitations, and responsible reporting
-
-My goal is to turn experimental biomedical AI work into implementations that other researchers can inspect, reproduce, and extend.
+I enjoy turning research ideas into clear, responsible, and reproducible implementations that other researchers can inspect and extend.
 
 ## Featured research
 
@@ -49,4 +34,3 @@ My goal is to turn experimental biomedical AI work into implementations that oth
 I am currently exploring robust physiological time-series models that generalize across subjects, devices, activities, and recording conditions.
 
 > Research software only. The projects on this profile are not medical devices and are not intended for clinical diagnosis.
-
