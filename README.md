@@ -1,6 +1,6 @@
 # About Me
 
-I am a fourth-year student at Ho Chi Minh City University of Technology (HCMUT), Vietnam National University Ho Chi Minh City. I am interested in biomedical signal processing and machine learning, particularly ECG and wearable PPG analysis, temporal deep learning, domain adaptation, and reproducible evaluation.
+I am a fourth-year Biomedical Engineering student at Ho Chi Minh City University of Technology - (HCMUT), Vietnam National University Ho Chi Minh City. I am interested in biomedical signal processing and machine learning, particularly ECG and wearable PPG analysis, temporal deep learning, domain adaptation, and reproducible evaluation.
 
 I enjoy turning research ideas into clear, responsible, and reproducible implementations that other researchers can inspect and extend.
 
@@ -8,9 +8,9 @@ I enjoy turning research ideas into clear, responsible, and reproducible impleme
 
 | Project | What it demonstrates |
 |---|---|
-| [**First Paper: Keypoint Activity Recognition**](https://github.com/LCT-dotcom/keypoint-activity-recognition) | My first published paper: V7-compatible TSFEL + HistGradientBoosting, leakage-free LOSO, unseen-participant inference, and reproducible models and artifacts. |
-| [**AD8232 ECG Domain Adaptation**](https://github.com/LCT-dotcom/ad8232-ecg-domain-adaptation) | End-to-end audit and Stage-B adaptation of a three-class ECG beat classifier, evaluated with a leakage-controlled temporal protocol. |
+| [**Keypoint Activity Recognition**](https://github.com/LCT-dotcom/keypoint-activity-recognition) | My first published paper: V7-compatible TSFEL + HistGradientBoosting, leakage-free LOSO, unseen-participant inference, and reproducible models and artifacts. |
 | [**PPG-DaLiA Heart-Rate Estimation**](https://github.com/LCT-dotcom/ppg-dalia-temporal-heart-rate-estimation) | Configurable PPG/ACC temporal modeling, strict leave-one-subject-out evaluation, ablation studies, and TorchScript export. |
+| [**AD8232 ECG Domain Adaptation Project (Intership)**](https://github.com/LCT-dotcom/ad8232-ecg-domain-adaptation) | End-to-end audit and Stage adaptation of a three-class ECG beat classifier, evaluated with a leakage-controlled temporal protocol. |
 
 ## Technical focus
 
