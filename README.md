@@ -8,6 +8,7 @@ I enjoy turning research ideas into clear, responsible, and reproducible impleme
 
 | Project | What it demonstrates |
 |---|---|
+| [**First Paper: Keypoint Activity Recognition**](https://github.com/LCT-dotcom/keypoint-activity-recognition-phase-d) | My first published paper: V7-compatible TSFEL + HistGradientBoosting, leakage-free LOSO, unseen-participant inference, and reproducible models and artifacts. |
 | [**AD8232 ECG Domain Adaptation**](https://github.com/LCT-dotcom/ad8232-ecg-domain-adaptation) | End-to-end audit and Stage-B adaptation of a three-class ECG beat classifier, evaluated with a leakage-controlled temporal protocol. |
 | [**PPG-DaLiA Heart-Rate Estimation**](https://github.com/LCT-dotcom/ppg-dalia-temporal-heart-rate-estimation) | Configurable PPG/ACC temporal modeling, strict leave-one-subject-out evaluation, ablation studies, and TorchScript export. |
 
