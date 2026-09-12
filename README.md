@@ -18,7 +18,7 @@ I work on research implementations with clear evaluation protocols, documented l
 
 - **Coordinator**, NCKU Overseas Hub in Vietnam — **May 2026–Present**.
 - **Intern**, PS Medical — **June–August 2026**, approximately two months. Company specializing in laser equipment for aesthetic applications.
-- **ISAS Challenge 2025:** 5th place, competing individually.
+- **ISAS Challenge 2025:** 6th place, competing individually.
 - First Prize, Faculty of Applied Science Engineering Festival 2023, for a PPG heart-rate monitoring sensor project.
 
 ## Technical interests and skills
